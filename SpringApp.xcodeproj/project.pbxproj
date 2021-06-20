@@ -221,7 +221,6 @@
 		961888D21A66BF9000295A64 /* Spring */ = {
 			isa = PBXGroup;
 			children = (
-				A4C97FD4267E702800CE4095 /* Extensions */,
 				1AA7E1821AA36EFF00762D75 /* AsyncButton.swift */,
 				1AA7E1811AA36EFF00762D75 /* AsyncImageView.swift */,
 				96C5F4611AC464C800BB8A18 /* AutoTextView.swift */,
@@ -240,6 +239,7 @@
 				961888DF1A66BF9000295A64 /* Misc.swift */,
 				1A9F866C1A83C5640098BE6C /* SoundPlayer.swift */,
 				1AD08AC61A676D5800160D45 /* Spring.swift */,
+				A4C97FD5267E704900CE4095 /* Springable+Animation.swift */,
 				961888E01A66BF9000295A64 /* SpringAnimation.swift */,
 				961888E11A66BF9000295A64 /* SpringButton.swift */,
 				1AF3F11A1A6776760090E8F9 /* SpringImageView.swift */,
@@ -318,15 +318,6 @@
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
-		};
-		A4C97FD4267E702800CE4095 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				A4C97FD5267E704900CE4095 /* Springable+Animation.swift */,
-			);
-			name = Extensions;
-			path = Spring/Extensions;
-			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
