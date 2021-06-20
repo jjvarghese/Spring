@@ -324,8 +324,9 @@
 			children = (
 				A4C97FD5267E704900CE4095 /* Springable+Animation.swift */,
 			);
-			path = Extensions;
-			sourceTree = "<group>";
+			name = Extensions;
+			path = Spring/Extensions;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
